@@ -44,5 +44,5 @@ const totalV = num.reduce( (arr, crr) => {
     console.log(`arr : ${arr} and crr : ${crr}`)
    return arr + crr
 },0)
-
+ 
 console.log(totalV)
